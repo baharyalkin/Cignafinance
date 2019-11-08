@@ -1,0 +1,112 @@
+[
+  {
+    "key": "faturaAnalizi",
+    "value": "//*[@title='FATURA ANALİZİ']",
+    "type": "xpath"
+  },
+  {
+    "key": "analiz",
+    "value": "//*[@title='Analiz']",
+    "type": "xpath"
+  },
+  {
+    "key": "özet",
+    "value": "//*[@title='Özet']",
+    "type": "xpath"
+  },
+  {
+    "key": "detay",
+    "value": "//*[@title='Detay']",
+    "type": "xpath"
+  },
+  {
+    "key": "özetCheck",
+    "value": "//*[@class='color4']",
+    "type": "xpath"
+  },
+  {
+    "key": "analizCheck",
+    "value": "//*[.='Doğrulama Kodu Gönder']",
+    "type": "xpath"
+  },
+  {
+    "key": "detayCheck",
+    "value": "//*[.='Açıklama']",
+    "type": "xpath"
+  },
+  {
+    "key": "faturaAyarları",
+    "value": "//*[@title='FATURA AYARLARI']",
+    "type": "xpath"
+  },
+  {
+    "key": "faturaAyarlarıCheck",
+    "value": "//*[.='Fatura Gönderim Yöntemi']",
+    "type": "xpath"
+  },
+  {
+    "key": "servislerim",
+    "value": "//*[.='Servislerim']",
+    "type": "xpath"
+  },
+  {
+    "key": "servislerimCheck",
+    "value": "//*[.='Aktif Servislerim']",
+    "type": "xpath"
+  },
+  {
+    "key": "kampanyalarım",
+    "value": "//*[.='Kampanyalarım']",
+    "type": "xpath"
+  },
+  {
+    "key": "kanpanyalarımCheck",
+    "value": "//*[.='Aktif Kampanyalarım']",
+    "type": "xpath"
+  },
+  {
+    "key": "paketVeTarifelerim",
+    "value": "//*[@class='m-grid-col']//*[@title='Paket ve Tarifelerim']",
+    "type": "xpath"
+  },
+  {
+    "key": "paketVeTarifelerimCheck",
+    "value": "//*[.='Ek Paketleriniz']",
+    "type": "xpath"
+  },
+  {
+    "key": "ayarlarım",
+    "value": "//*[@title='Ayarlarım']",
+    "type": "xpath"
+  },
+  {
+    "key": "ayarlarımCheck",
+    "value": "//*[.='Kart Ayarlarım']",
+    "type": "xpath"
+  },
+ {
+  "key": "4.5g",
+  "value": "//*[@title='4.5G UYUMLU SİM KART']",
+  "type": "xpath"
+},  {
+  "key": "4.5gCheck",
+  "value": "//*[.='4.5G Uyumlu Sim Kart Talebi']",
+  "type": "xpath"
+},  {
+  "key": "yurtDışıAyarlarım",
+  "value": "//*[@title='YURT DIŞI AYARLARIM']",
+  "type": "xpath"
+},  {
+  "key": "yurtDışıAyarlarımCheck",
+  "value": "//*[.='Yurt Dışı İşlemleri']",
+  "type": "xpath"
+},  {
+  "key": "cagrıAyarlarım",
+  "value": "//*[@title='ÇAĞRI AYARLARIM']",
+  "type": "xpath"
+},  {
+  "key": "cagrıAyarlarımCheck",
+  "value": "//*[.='Kim Aramış']",
+  "type": "xpath"
+}
+]

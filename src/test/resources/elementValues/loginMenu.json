@@ -1,0 +1,81 @@
+[
+  {
+    "key": "loginBtn",
+    "value": "i[class='icon-account-regular']",
+    "type": "css"
+  },
+  {
+    "key": "gsmArea",
+    "value": "input[name='msisdn']",
+    "type": "css"
+  },
+  {
+    "key": "signBtn",
+    "value": ".m-form-group__child>#login-button",
+    "type": "css"
+  },
+  {
+    "key": "passwordBtn",
+    "value": "input[name='password']",
+    "type": "css"
+  },
+  {
+    "key": "loginDropdown",
+    "value": ".select2-selection.select2-selection--single",
+    "type": "css"
+  },
+  {
+    "key": "sifreGiris",
+    "value": ".a-icon.icon-turkcell-logo",
+    "type": "css"
+  },
+  {
+    "key": "searchIcon",
+    "value": ".a-btn-icon.js-search>.icon-search",
+    "type": "css"
+  },
+  {
+    "key": "searchBar",
+    "value": "input[placeholder='Size nasıl yardımcı olabiliriz?']",
+    "type": "css"
+  },
+  {
+    "key": "writtenSearchBar",
+    "value": "#main-search",
+    "type": "css"
+  },
+  {
+    "key": "sepetım",
+    "value": ".icon-cart-notification",
+    "type": "css"
+  },
+  {
+    "key": "cıkısBtn",
+    "value": "a[title='Çıkış Yap']",
+    "type": "css"
+  },
+  {
+    "key": "cıkısYap",
+    "value": "a[class='a-btn js-login-logout']",
+    "type": "css"
+  },
+  {
+    "key": "turkcellLogo",
+    "value": ".m-logo",
+    "type": "css"
+  },
+  {
+    "key": "profılImgIcon",
+    "value": ".js-profile",
+    "type": "css"
+  },
+  {
+    "key": "userProfile",
+    "value": ".m-user-profile",
+    "type": "css"
+  }
+
+
+
+
+]

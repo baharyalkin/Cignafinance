@@ -1,0 +1,90 @@
+Created by SahaBT on 4.11.2019
+
+This is a concept file with following syntax for each concept.
+# tazminat işlemleri sayfasına gir
+*cerezleri temizle
+* "dokümanMerkezi" elementine focus ile tıkla
+* "3" saniye bekle
+*"bireyselUrunler" li elementin üzerine gel
+* "3" saniye bekle
+*"tazminatIslemleri" elementine focus ile tıkla
+*"3" saniye bekle
+*Element var mı kontrol et "tazminatIslemleriImg"
+*"3" saniye bekle
+
+#insan kaynakları sayfasını görüntüle
+*cerezleri temizle
+*"insanKaynaklari" elementine kadar swipe yap
+*"2" saniye bekle
+* "insanKaynaklari" elementine focus ile tıkla
+*"2" saniye bekle
+*Element var mı kontrol et "insanKaynaklariKontrol"
+*"2" saniye bekle
+
+#site haritası sayfasını görüntüle
+*cerezleri temizle
+*"siteHaritasi" elementine kadar swipe yap
+*"siteHaritasi" elementine focus ile tıkla
+*Element var mı kontrol et "siteHaritasiKontrol"
+*"2" saniye bekle
+
+#gizlilik politikası sayfasını görüntüle
+*cerezleri temizle
+*"gizlilikPolitikasi" elementine kadar swipe yap
+*"gizlilikPolitikasi" elementine focus ile tıkla
+*Element var mı kontrol et "gizlilikPolitikasiKontrol"
+*"2" saniye bekle
+
+#faydalı linkler sayfasını görüntüle
+*cerezleri temizle
+*"faydaliLinkler" elementine kadar swipe yap
+*"faydaliLinkler" elementine focus ile tıkla
+*Element var mı kontrol et "faydaliLinklerKontrol"
+*"2" saniye bekle
+
+#S.S.S sayfasını görüntüle
+*cerezleri temizle
+*"S.S.S" elementine kadar swipe yap
+*"S.S.S" elementine focus ile tıkla
+*Element var mı kontrol et "S.S.S.Kontrol"
+*"2" saniye bekle
+
+#arsiv sayfasını görüntüle
+*cerezleri temizle
+*"arsiv" elementine kadar swipe yap
+*"arsiv" elementine focus ile tıkla
+*Element var mı kontrol et "arsivKontrol"
+*"2" saniye bekle
+
+#bilgi toplumu hizmetleri sayfasını görüntüle
+*cerezleri temizle
+*"bilgiToplumuHizmetleri" elementine kadar swipe yap
+*"bilgiToplumuHizmetleri" elementine focus ile tıkla
+* "5" saniye bekle
+//*Send TAB key to element "bilgiToplumuHizmetleriKontrol"
+//*Elemente TAB keyi yolla "bilgiToplumuHizmetleriKontrol"
+*"bilgiToplumuHizmetleri" elementine new tab acarak tıkla
+*Element var mı kontrol et "bilgiToplumuHizmetleriKontrol"
+*"2" saniye bekle
+
+
+#kisisel verilerin korunması sayfasını görüntüle
+*cerezleri temizle
+*"kisiselVerilerinKorunmasi" elementine kadar swipe yap
+*"kisiselVerilerinKorunmasi" elementine focus ile tıkla
+*Element var mı kontrol et "kisiselVerilerinKorunmasiKontrol"
+*"2" saniye bekle
+
+#iletisim sayfasını görüntüle
+*cerezleri temizle
+*"iletisim" elementine kadar swipe yap
+*"iletisim" elementine focus ile tıkla
+*Element var mı kontrol et "iletisimKontrol"
+*"2" saniye bekle
+
+
+#arama yap
+*cerezleri temizle
+*"bireysel emeklilik" textini elemente yaz "arama"
+*"aramaButonu" elementine focus ile tıkla
+*"2" saniye bekle

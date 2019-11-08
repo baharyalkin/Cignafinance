@@ -1,0 +1,523 @@
+[
+  {
+    "key": "cıhazlarMenuBar",
+    "value": ".m-header-nav>a[title='Cihazlar']",
+    "type": "css"
+  },
+  {
+    "key": "akilliTelefonlar",
+    "value": "ul>li>a[title='Akıllı Telefonlar']",
+    "type": "css"
+  },
+  {
+    "key": "tabletveBilgisayarlar",
+    "value": "ul>li>a[title='Tablet ve Bilgisayarlar']",
+    "type": "css"
+  },
+  {
+    "key": "tv",
+    "value": "ul>li>a[title='Televizyon']",
+    "type": "css"
+  },
+  {
+    "key": "gıyılebılırTekno",
+    "value": "ul>li>a[title='Giyilebilir Teknolojiler']",
+    "type": "css"
+  },
+  {
+    "key": "oyuncuUrunler",
+    "value": "ul>li>a[title='Oyuncu Ürünleri']",
+    "type": "css"
+  },
+  {
+    "key": "hobıUrunler",
+    "value": "ul>li>a[title='Hobi Ürünleri']",
+    "type": "css"
+  },
+  {
+    "key": "telefonAksesuarlari",
+    "value": "ul>li>a[title='Telefon Aksesuarları']",
+    "type": "css"
+  },
+  {
+    "key": "tabletPcAksesuar",
+    "value": "ul>li>a[title='Tablet ve Bilgisayar Aksesuarları']",
+    "type": "css"
+  },
+  {
+    "key": "sesveMuzık",
+    "value": "ul>li>a[title='Ses & Müzik']",
+    "type": "css"
+  },
+  {
+    "key": "gereklıUrunler",
+    "value": "ul>li>a[title='Marifetli Ürünler']",
+    "type": "css"
+  },
+  {
+    "key": "paketlerMenuBar",
+    "value": ".m-header-nav>a[title='Paketler']",
+    "type": "css"
+  },
+  {
+    "key": "yenıTurkcellıler",
+    "value": ".o-header__sub-nav>div>div>ul>li>a[title^='Yeni']",
+    "type": "css"
+  },
+  {
+    "key": "faturaliHat",
+    "value": ".o-header__sub-nav>div>div>ul>li>a[title^='Faturalı']",
+    "type": "css"
+  },
+  {
+    "key": "turkcellRahat",
+    "value": ".o-header__sub-nav>div>div>ul>li>a[title^='Turkcell']",
+    "type": "css"
+  },
+  {
+    "key": "hazirKart",
+    "value": ".o-header__sub-nav>div>div>ul>li>a[title^='Hazır']",
+    "type": "css"
+  },
+  {
+    "key": "dijitalServıslerMenuBar",
+    "value": ".m-header-nav>a[title$='Servisler']",
+    "type": "css"
+  },
+  {
+    "key": "aramaFaturaTL",
+    "value": ".o-header__sub-nav>div>div>ul>li>a[title^='Arama']",
+    "type": "css"
+  },
+  {
+    "key": "bılgı",
+    "value": ".o-header__sub-nav>div>div>ul>li>a[title='Bilgi']",
+    "type": "css"
+  },
+  {
+    "key": "eglence",
+    "value": ".o-header__sub-nav>div>div>ul>li>a[title='Eğlence']",
+    "type": "css"
+  },
+  {
+    "key": "uygulama",
+    "value": ".o-header__sub-nav>div>div>ul>li>a[title='Uygulama']",
+    "type": "css"
+  },
+  {
+    "key": "evCozumlerıMenuBar",
+    "value": ".m-header-nav>a[title^='Ev']",
+    "type": "css"
+  },
+  {
+    "key": "evInternetı",
+    "value": ".o-header__sub-nav>div>div>ul>li>a[title='Ev İnterneti']",
+    "type": "css"
+  },
+  {
+    "key": "tvPlus",
+    "value": ".o-header__sub-nav>div>div>ul>li>a[title^='TV']",
+    "type": "css"
+  },
+  {
+    "key": "supercam",
+    "value": ".o-header__sub-nav>div>div>ul>li>a[title='Supercam']",
+    "type": "css"
+  },
+  {
+    "key": "kampanyalarMenuBar",
+    "value": ".m-header-nav>a[title='Kampanyalar']",
+    "type": "css"
+  },
+  {
+    "key": "cıhazKampanya",
+    "value": ".o-header__sub-nav>div>div>ul>li>a[title^='Cihaz']",
+    "type": "css"
+  },
+  {
+    "key": "mobılKampanya",
+    "value": ".o-header__sub-nav>div>div>ul>li>a[title^='Mobil']",
+    "type": "css"
+  },
+  {
+    "key": "dıjıtalKampanya",
+    "value": ".o-header__sub-nav>div>div>ul>li>a[title^='Dijital']",
+    "type": "css"
+  },
+  {
+    "key": "evCozumuKampanya",
+    "value": ".o-header__sub-nav>div>div>ul>li>a[title^='Ev Çözümü']",
+    "type": "css"
+  },
+  {
+    "key": "tumCıhazlar",
+    "value": "a[title='Tüm Cihazlar']",
+    "type": "css"
+  },
+  {
+    "key": "cıhazlarText",
+    "value": ".container>.text-center.first-title.m-t-20",
+    "type": "css"
+  },
+  {
+    "key": "ındırımlıUrunler",
+    "value": "#popular-shop-recommendedOffers-33>.compact-title.text-center",
+    "type": "css"
+  },
+  {
+    "key": "populerUrunler",
+    "value": "#mostPopularProducts>div>.text-center.compact-title",
+    "type": "css"
+  },
+  {
+    "key": "kampanyalar",
+    "value": "#genericProductList>#popular-shop-recommendedOffers-29>.compact-title.text-center",
+    "type": "css"
+  },
+  {
+    "key": "oneCıkanUrunler",
+    "value": "#genericProductList>#popular-shop-recommendedOffers-32>.compact-title.text-center",
+    "type": "css"
+  },
+  {
+    "key": "paketTarıfelerText",
+    "value": ".wrap>.blue",
+    "type": "css"
+  },
+  {
+    "key": "tumIslemlerText",
+    "value": "(//section[@class='content']/div/h1)[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "servıslerText",
+    "value": ".wrap.cols-4.new-service-product>.blue",
+    "type": "css"
+  },
+  {
+    "key": "populerServıslerText",
+    "value": "#service_popular_section>.content.shop_section.center >.discrete",
+    "type": "css"
+  },
+  {
+    "key": "TLservıslerıText",
+    "value": "(//section/h2)[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "bılgıServıslerıText",
+    "value": "(//section/h2)[3]",
+    "type": "xpath"
+  },
+  {
+    "key": "eglenceServıslerıText",
+    "value": "(//section/h2)[4]",
+    "type": "xpath"
+  },
+  {
+    "key": "uygulamaServıslerı",
+    "value": "(//section/h2)[5]",
+    "type": "xpath"
+  },
+  {
+    "key": "dıjıServıslerText",
+    "value": ".copy>h3",
+    "type": "css"
+  },
+  {
+    "key": "evCozumlerıText",
+    "value": "(//div[@class='container']/h2)[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "fıberKampanyalarText",
+    "value": "(//div[@class='container']/h2)[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "tvKampanyalarText",
+    "value": "(//div[@class='container']/h2)[4]",
+    "type": "xpath"
+  },
+  {
+    "key": "popularFaturaliHatKampanyalari",
+    "value": "a[title='POPÜLER FATURALI HAT KAMPANYALARI']",
+    "type": "css"
+  },
+  {
+    "key": "popularHazirKartKampanyalari",
+    "value": "a[title='POPÜLER HAZIR KART KAMPANYALARI']",
+    "type": "css"
+  },
+  {
+    "key": "popularYenıTurkcellılerKampanyasi",
+    "value": "a[title=' POPÜLER YENİ TURKCELL’LİLER KAMPANYALARI']",
+    "type": "css"
+  },
+  {
+    "key": "hizliIslemlerFaturaBorcSorgulama",
+    "value": ".separate.page.pt0>h1",
+    "type": "css"
+  },
+  {
+    "key": "hizliIslemlerTLyukle",
+    "value": "a[title='TL Yükle']",
+    "type": "css"
+  },
+  {
+    "key": "hizliIslemlerSayfaKontrol",
+    "value": ".top_up_header",
+    "type": "css"
+  },
+  {
+  "key": "hizliIslemlerTLtransfer",
+  "value": "a[title='TL Transfer']",
+  "type": "css"
+  },
+  {
+    "key": "hizliIslemlerTurkcellTLtransfer",
+    "value": ".hero-content.pull-right>form>h1",
+    "type": "css"
+  },
+  {
+    "key": "hizliIslemlerHazirKartPaketYukle",
+    "value": "a[title='Hazır Kart Paket Yükle ']",
+    "type": "css"
+  },
+  {
+    "key": "hizliIslemlerTurkcellRahatEkPaketAl",
+    "value": "a[title='Turkcell Rahat Ek Paket Al']",
+    "type": "css"
+  },
+  {
+    "key": "hizliIslemlerCeptenInternetPaketYukle",
+    "value": "a[title='Cepten İnternet Paketi Yükle']",
+    "type": "css"
+  },
+  {
+    "key": "hizliIslemlerBılgısayardanInternetYukle",
+    "value": "a[title='Bilgisayardan İnternet Yükle']",
+    "type": "css"
+  },
+  {
+    "key": "slıderNext",
+    "value": "(//a[@class='a-btn-icon m-slider__next a-btn-icon--circle'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "slıderPrev",
+    "value": "(//a[@class='a-btn-icon m-slider__prev a-btn-icon--circle'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "konusmaText",
+    "value": ".m-card__head.m-card__head--orange>.m-card__title",
+    "type": "css",
+    "index": "1"
+  },
+  {
+    "key": "uygulamaText",
+    "value": ".m-card__head.m-card__head--purple>.m-card__title",
+    "type": "css",
+    "index": "1"
+  },
+  {
+    "key": "smsText",
+    "value": ".m-card__head.m-card__head--dark-blue>.m-card__title",
+    "type": "css"
+  },
+  {
+    "key": "autocomplete",
+    "value": ".m-search__item.m-search__group-results",
+    "type": "css"
+  },
+  {
+    "key": "gridAnasayfa",
+    "value": "(//div[@class='m-grid'])[14]",
+    "type": "xpath"
+  },
+  {
+    "key": "tcknText",
+    "value": "//*[@id='tckn']",
+    "type": "xpath"
+  },
+  {
+    "key": "gsmnoText",
+    "value": "//*[@name='gsmno']",
+    "type": "xpath"
+  },
+  {
+    "key": "adSoyadİleSorgula",
+    "value": "//*[@title='Ad Soyad İle Sorgula']",
+    "type": "xpath"
+  },
+  {
+    "key": "soyadText",
+    "value": "//*[@id='nameSurname']",
+    "type": "xpath"
+  },
+  {
+    "key": "faturaBorcumuOdeBtn",
+    "value": ".btn.button-cta.pull-right.formSubmit",
+    "type": "css"
+  },
+  {
+    "key": "pukKoduOgrenmeBtn",
+    "value": "//*[contains(text(),'PUK Kodu')] ",
+    "type": "xpath"
+  },
+  {
+    "key": "simNoText",
+    "value": "//*[@id=\"sim_no\"]",
+    "type": "xpath"
+  },
+  {
+    "key": "tcKimlikBtn",
+    "value": "a[href='#tc_id']>i[class='radio']",
+    "type": "css"
+  },
+  {
+    "key": "tcNoText",
+    "value": "//*[@id=\"tc_no\"]",
+    "type": "xpath"
+  }
+,
+  {
+    "key": "dogumTarihiGun",
+    "value": "//*[@id=\"trk_dropdown_bd_day\"]",
+    "type": "xpath"
+  }
+,
+  {
+    "key": "dogumTarihiAy",
+    "value": "//*[@id=\"trk_dropdown_bd_month\"]",
+    "type": "xpath"
+  }
+,
+  {
+    "key": "dogumTarihiYil",
+    "value": "//*[@id=\"trk_dropdown_bd_year\"]//*[text()='Yıl']",
+    "type": "xpath"
+  }
+,
+  {
+    "key": "gonderBtn",
+    "value": "//*[@id=\"sppqSubmit\"]",
+    "type": "xpath"
+  },
+  {
+    "key": "TlyuklemeGsmNoText",
+    "value": "//*[@id=\"targetMsisdn\"]",
+    "type": "xpath"
+  },
+  {
+    "key": "tarifelerCheckBox",
+    "value": "//*[@id=\"top_up_amount_dropbox_btn\"]",
+    "type": "xpath"
+  },
+  {
+    "key": "kartSahibininAdıText",
+    "value": "//*[@id=\"payment_cardholder_name\"]",
+    "type": "xpath"
+  },
+  {
+    "key": "kartNumarasıText",
+    "value": "//*[@id=\"payment_card_number_1\"]",
+    "type": "xpath"
+  },
+  {
+    "key": "sonKullanimTarihiAy",
+    "value": "//*[@id=\"trk_dropdown_payment_card_month\"]",
+    "type": "xpath"
+  },
+  {
+    "key": "sonKullanımTarihiYil",
+    "value": "//*[@id=\"trk_dropdown_payment_card_year\"]",
+    "type": "xpath"
+  },
+  {
+    "key": "güvenlikKoduText",
+    "value": "//*[@id=\"security_code\"]",
+    "type": "xpath"
+  },
+  {
+    "key": "sozlesmeGsmNumarasi",
+    "value": "//*[@id=\"customermsisdn\"]\n",
+    "type": "xpath"
+  }
+,
+  {
+    "key": "musteriIsmıText",
+    "value": "//*[@id=\"customername\"]",
+    "type": "xpath"
+  },
+  {
+    "key": "musteriMailText",
+    "value": "//*[@id=\"customeremail\"]",
+    "type": "xpath"
+  },
+  {
+    "key": "musteriMailTextyeniden",
+    "value": "//*[@id=\"customeremail-again\"]",
+    "type": "xpath"
+  },
+  {
+    "key": "TlYuklemeOkudumOnayliyorumBtn",
+    "value": "//*[contains(text(),'sözleşmesini okudum, onaylıyorum')] ",
+    "type": "xpath"
+  },
+  {
+    "key": "TlYukleDevamBtn",
+    "value": "//*[@id=\"etk-nar\"]//*[contains(text(),'Devam')] ",
+    "type": "xpath"
+  },
+  {
+    "key": "dahaSonraHatırlatPopUp",
+    "value": ".insider-opt-in-notification-button.insider-opt-in-disallow-button.sp-custom-705-1",
+    "type": "css"
+  },
+  {
+    "key": "kartIslemleriHeader",
+    "value": ".page>h1",
+    "type": "css"
+  },
+  {
+    "key": "ılerıTarıhlıIslemlerLabel",
+    "value": "#future_ops_article",
+    "type": "css"
+  },
+  {
+    "key": "randevularimLabel",
+    "value": ".uxr-randevu-bayi-wrapper>h1",
+    "type": "css"
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]

@@ -1,0 +1,231 @@
+[
+  {
+    "key": "kalanKullanimlarim",
+    "value": ".o-header__sub-nav-items>li>a[title='Kalan Kullanımlarım']",
+    "type": "css"
+  },
+  {
+    "key": "Faturalarım",
+    "value": ".o-header__sub-nav-items>li>a[title='Faturalarım']",
+    "type": "css"
+  },
+  {
+    "key": "tlIslemlerim",
+    "value": ".o-header__sub-nav-items>li>a[title='TL İşlemlerim']",
+    "type": "css"
+  },
+  {
+    "key": "paketTarifelerim",
+    "value": ".o-header__sub-nav-items>li>a[title='Paket ve Tarifelerim']",
+    "type": "css"
+  },
+  {
+    "key": "ayarlarim",
+    "value": ".o-header__sub-nav-items>li>a[title='Ayarlarım']",
+    "type": "css"
+  },
+  {
+    "key": "siparisTakibi",
+    "value": ".o-header__sub-nav-items>li>a[title='Sipariş Takip']",
+    "type": "css"
+  },
+  {
+    "key": "tumIslemlerMerkezı",
+    "value": ".o-header__sub-nav-items>li>a[title='Tüm İşlem Merkezi']",
+    "type": "css"
+  },
+  {
+    "key": "ınternet",
+    "value": ".o-header__sub-nav-items>li>ul>li>a[title='İnternet']",
+    "type": "css"
+  },
+  {
+    "key": "dakıka",
+    "value": ".o-header__sub-nav-items>li>ul>li>a[title='Dakika']",
+    "type": "css"
+  },
+  {
+    "key": "uygulamalar",
+    "value": ".o-header__sub-nav-items>li>ul>li>a[title='Uygulamalar']",
+    "type": "css"
+  },
+  {
+    "key": "SMS",
+    "value": ".o-header__sub-nav-items>li>ul>li>a[title='SMS']",
+    "type": "css"
+  },
+  {
+    "key": "tuketıcıSıkayet",
+    "value": "nav>div>div>h3>a[title='Tüketici Şikayetleri']",
+    "type": "css"
+  },
+  {
+    "key": "tumunuGor",
+    "value": ".m-tab__pane--active>.m-btn-group.m-t-50>a[title='Tümünü Gör']",
+    "type": "css"
+  },
+  {
+    "key": "telefonImg",
+    "value": ".m-card__img",
+    "type": "css"
+  },
+  {
+    "key": "kurumsalLogin",
+    "value": "a[title='Kurumsal']",
+    "type": "css"
+  },
+  {
+    "key": "hizliIslemler",
+    "value": ".m-dropdown.js-quick-nav>#dropdown-1",
+    "type": "css"
+  },
+  {
+    "key": "faturaSorgulaOde",
+    "value": "ul>li>a[title*='Fatura Sorgula']",
+    "type": "css"
+  },
+  {
+    "key": "tlYukle",
+    "value": "ul>li>a[title='TL Yükle']",
+    "type": "css"
+  },
+  {
+    "key": "tlTransfer",
+    "value": "ul>li>a[title*='Transfer']",
+    "type": "css"
+  },
+  {
+    "key": "hazirKartPaketyukle",
+    "value": "ul>li>a[title*='Hazır Kart Paket Yükle']",
+    "type": "css"
+  },
+  {
+    "key": "rahatEkPaketAl",
+    "value": "ul>li>a[title$='Al']",
+    "type": "css"
+  },
+  {
+    "key": "ceptenInternetPaketAl",
+    "value": "ul>li>a[title^='Cepten']",
+    "type": "css"
+  },
+  {
+    "key": "pcdenInternetYukle",
+    "value": "ul>li>a[title^='Bilgisayardan']",
+    "type": "css"
+  },
+  {
+    "key": "hatAyarlarim",
+    "value": "a[title='HAT AYARLARIM']",
+    "type": "css"
+  },
+  {
+    "key": "anaIletısımHatGoruntule",
+    "value": ".bt>a[title='Görüntüle']",
+    "type": "css"
+  },
+  {
+    "key": "dıgerHatlar",
+    "value": ".settings-item>.item-label",
+    "type": "css",
+    "index": "0"
+  },
+  {
+    "key": "guncelle",
+    "value": "#mainmsisdn-update-button",
+    "type": "css"
+  },
+  {
+    "key": "ıptalButton",
+    "value": ".buttons.tcell-lightbox-login-buttons>.button-cta.btn.inverted",
+    "type": "css"
+  },
+  {
+    "key": "bannerRight",
+    "value": "i[class='icon-arrow-right']",
+    "type": "xpath"
+  },
+  {
+    "key": "bannerLeft",
+    "value": "i[class='icon-arrow-left']",
+    "type": "xpath"
+  },
+  {
+    "key": "hatIslemeriBaslik",
+    "value": "#generalSettings>h1",
+    "type": "css"
+  },
+  {
+    "key": "ınternetAyarlarim",
+    "value": "a[title=\"İNTERNET AYARLARIM\"]",
+    "type": "css"
+  },
+  {
+    "key": "smsAyarlarim",
+    "value": "a[title=\"SMS AYARLARIM\"]",
+    "type": "css"
+  },
+  {
+    "key": "kartAyarlarim",
+    "value": "a[title=\"KART AYARLARIM\"]",
+    "type": "css"
+  },
+  {
+  "key": "cihazAyarlarim",
+  "value": "a[title=\"CİHAZ AYARLARIM\"]",
+  "type": "css"
+   },
+  {
+    "key": "popupTamamBtn",
+    "value": "//*[@id=\"dialog_settings_nosetting\"]/div[2]/button",
+    "type": "xpath",
+    "index": "2"
+  },
+  {
+    "key": "turkcellSifreAyarlarim",
+    "value": "a[title=\"TURKCELL ŞİFRE\"]",
+    "type": "css"
+  },
+  {
+    "key": "turkcellSifreLabel",
+    "value": "#sifre-degisiklik>.item-label",
+    "type": "css"
+  },
+  {
+    "key": "ılerıTarıhlıIslemlerAyari",
+    "value": "a[title=\"İLERİ TARİHLİ İŞLEMLER\"]",
+    "type": "css"
+  },
+  {
+    "key": "randevularim",
+    "value": "a[title=\"RANDEVULARIM\"]",
+    "type": "css"
+  },
+  {
+    "key": "abc",
+    "value": "//*[@id=\"dialog_settings_nosetting\"]/div[2]/button",
+    "type": "xpath"
+  },
+  {
+  "key": "",
+  "value": "",
+  "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  }
+
+
+
+
+
+
+
+]

@@ -1,0 +1,133 @@
+[
+  {
+    "key": "dokümanMerkezi",
+    "value": "//*[@id=\"block-block-57\"] //*[.='Doküman Merkezi']",
+    "type": "xpath"
+  },
+  {
+    "key": "bireyselUrunler",
+    "value": "//*[@id=\"header\"] //*[.='Bireysel Ürünler']",
+    "type": "xpath"
+  },
+  {
+    "key": "tazminatIslemleri",
+    "value": "//*[@class='col-lg-4 col-md-4 link-list bireysel-hayat-sigortasi has-image drp-block-90-block-drp']//*[@class=\"external-link first\"]",
+    "type": "xpath"
+  },
+
+  {
+    "key": "tazminatIslemleriImg",
+    "value": " //*[@class='container']//*[@class='description']",
+    "type": "xpath"
+  },
+
+
+  {
+    "key" : "insanKaynaklari",
+    "value" : "//*[@class='first leaf id-nsan-kaynaklar- mid-1636'] //*[.='İnsan Kaynakları']",
+    "type": "xpath"
+  },
+
+  {
+    "key" : "insanKaynaklariKontrol",
+    "value" : "//*[@class='container']//*[@class='description']//*[.='İnsan']",
+    "type": "xpath"
+  },
+  {
+    "key" : "siteHaritasi",
+    "value" : "//*[@class='leaf site-haritas- mid-1637']//*[.='Site Haritası']",
+    "type": "xpath"
+  },
+
+  {
+    "key" : "siteHaritasiKontrol",
+    "value" : "//*[@class='container']//*[@class='description']//*[.='Site Haritası']",
+    "type": "xpath"
+  },
+  {
+    "key": "gizlilikPolitikasi",
+    "value": " //*[@class='leaf gizlilik-politikas- mid-662']//*[.='Gizlilik Politikası']",
+    "type": "xpath"
+  },
+  {
+    "key": "gizlilikPolitikasiKontrol",
+    "value": " //*[@class='container']//*[@class='description']//*[.='Cigna Finans Emeklilik İnternet Sitesi Gizlilik Uyarısı']",
+    "type": "xpath"
+  },
+
+  {
+    "key": "faydaliLinkler",
+    "value": " //*[@class='leaf faydal-linkler mid-666'] //*[.='Faydalı Linkler']",
+    "type": "xpath"
+  },
+  {
+    "key": "faydaliLinklerKontrol",
+    "value": "//*[@class='container']//*[@class='description'] //*[.='Faydalı Linkler']",
+    "type": "xpath"
+  },
+  {
+    "key": "S.S.S",
+    "value": " //*[@class='leaf active-trail s-s-s- mid-2012'] //*[@class='active-trail active']",
+    "type": "xpath"
+  },
+  {
+    "key": "S.S.S.Kontrol",
+    "value": "//*[@class='container']//*[@class='description'] //*[.='Sıkça Sorulan Sorular']",
+    "type": "xpath"
+  },
+
+  {
+  "key": "arsiv",
+  "value": " //*[@class='leaf ar-iv mid-667'] //*[.='Arşiv']",
+  "type": "xpath"
+},
+  {
+    "key": "arsivKontrol",
+    "value": "//*[@class='container']//*[@class='description'] //*[.='Cigna Finans Arşiv']",
+    "type": "xpath"
+  },
+
+  {
+    "key": "bilgiToplumuHizmetleri",
+    "value": "//*[.='Bilgi Toplumu Hizmetleri']  ",
+    "type": "xpath"
+  },
+  {
+    "key": "bilgiToplumuHizmetleriKontrol",
+    "value": "//*[@id='menuLandingPageTitle']//*[.='CIGNA FİNANS EMEKLİLİK VE HAYAT A.Ş.']",
+    "type": "xpath"
+  }
+  ,{
+  "key": "kisiselVerilerinKorunmasi",
+  "value": "//*[@class='leaf ki-isel-verilerin-korunmas- mid-2761'] //*[.='Kişisel Verilerin Korunması']",
+  "type": "xpath"
+  },
+  {
+    "key": "kisiselVerilerinKorunmasiKontrol",
+    "value": "//*[@class='container'] //*[@class='description'] //*[.='Kişisel Verilerin']",
+    "type": "xpath"
+  },
+  {
+    "key": "iletisim",
+    "value": "//*[@class='last leaf id-leti-im mid-1647']//*[.='İletişim']",
+    "type": "xpath"
+  },
+  {
+    "key": "iletisimKontrol",
+    "value": "//*[@class='container'] //*[@class='description'] //*[.='İletişim']",
+    "type": "xpath"
+  },
+  {
+    "key": "arama",
+    "value": " //*[@id=\"edit-search-block-form--2\"]",
+    "type": "xpath"
+  },
+
+  {
+    "key": "aramaButonu",
+    "value": "//*[@id='edit-button'] //*[@class='form-submit']//*[@class='fa fa-search']",
+    "type": "xpath"
+  }
+
+
+]
